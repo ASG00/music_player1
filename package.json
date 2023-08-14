@@ -1,0 +1,16 @@
+{
+  "name": "musicplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js",
+    "test": "npx jest"
+  },
+  "author": "Siva Ganesh",
+  "license": "ISC",
+  "jest": {
+    "testRegex": ".*\\.test\\.js$"
+  }
+}
+
